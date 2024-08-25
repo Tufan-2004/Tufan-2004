@@ -1,4 +1,4 @@
-!logo(https://github.com/Tufan-2004/Tufan-2004/blob/main/WhatsApp%20Image%202024-08-25%20at%208.37.15%20PM.jpeg?raw=true)
+!logo(<img alt="banner.png" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/banner.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">)
 <h1 align="center">Hi 👋, I'm Tufan Das</h1>
 <h3 align="center">A passionate frontend developer from West Bengal</h3>
 
