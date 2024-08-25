@@ -1,7 +1,7 @@
 <img alt="banner.png" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/banner.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">Hi 👋, I'm Tufan Das</h1>
 <h3 align="center">A passionate frontend developer from West Bengal</h3>
-
+<img align="right" alt="animation" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/07132503/software-house-gif2-min.gif">
 - 🔭 I’m currently working on **Python**
 
 - 👯 I’m looking to collaborate on **Developer**
