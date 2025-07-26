@@ -27,7 +27,7 @@
            overflow: auto;
            font-variant:
            tabular-nums;
-           border-collapse: collapse;"">
+           border-collapse: collapse;>
   <tbody style="display: table-row-group;
     vertical-align: middle;
     unicode-bidi: isolate;
