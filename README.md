@@ -1,4 +1,4 @@
-<img alt="logo" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/Black%20and%20Blue%20Modern%20Gradient%20Zoom%20Virtual%20Background.jpg?raw=true">
+<img alt="logo" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/background%20github.png">
 <h1 align="center">Hi 👋, I'm Tufan Das</h1>
 <h3 align="center">A passionate frontend developer from West Bengal</h3>
 
