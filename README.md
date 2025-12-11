@@ -1,6 +1,7 @@
 <img alt="logo" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png">
 <h1 align="center">Hi 👋, I'm Tufan Das</h1>
 <h3 align="center">A passionate frontend developer from West Bengal</h3>
+<img align="right" alt="coding" width="300" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufan-2004&label=Profile%20views&color=0e75b6&style=flat" alt="tufan-2004" /> </p>
 
