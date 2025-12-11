@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tufan-2004&label=Profile%20views&color=0e75b6&style=flat" alt="tufan-2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tufan-2004" alt="tufan-2004" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
