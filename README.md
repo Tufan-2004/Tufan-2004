@@ -104,7 +104,3 @@
      </tr>       
   </tbody>
 </table>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tufan-2004&show_icons=true&locale=en" alt="tufan-2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tufan-2004&" alt="tufan-2004" /></p>
