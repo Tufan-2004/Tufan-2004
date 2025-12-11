@@ -1,4 +1,4 @@
-<img alt="logo" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/background%20github.png">
+<img alt="logo" src="https://github.com/Tufan-2004/Tufan-2004/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png">
 <h1 align="center">Hi 👋, I'm Tufan Das</h1>
 <h3 align="center">A passionate frontend developer from West Bengal</h3>
 
